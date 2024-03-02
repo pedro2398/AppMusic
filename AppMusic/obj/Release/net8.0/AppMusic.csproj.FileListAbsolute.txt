@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\AppMusic\AppMusic\bin\Release\net8.0\AppMusic.exe
+C:\Users\pedro\source\repos\AppMusic\AppMusic\bin\Release\net8.0\AppMusic.deps.json
+C:\Users\pedro\source\repos\AppMusic\AppMusic\bin\Release\net8.0\AppMusic.runtimeconfig.json
+C:\Users\pedro\source\repos\AppMusic\AppMusic\bin\Release\net8.0\AppMusic.dll
+C:\Users\pedro\source\repos\AppMusic\AppMusic\bin\Release\net8.0\AppMusic.pdb
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\AppMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\AppMusic.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\AppMusic.AssemblyInfo.cs
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\AppMusic.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\AppMusic.dll
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\refint\AppMusic.dll
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\AppMusic.pdb
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\AppMusic.genruntimeconfig.cache
+C:\Users\pedro\source\repos\AppMusic\AppMusic\obj\Release\net8.0\ref\AppMusic.dll

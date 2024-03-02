@@ -1,0 +1,4 @@
+C:\Users\pedro\source\repos\AppMusic\AppMusicCL\obj\Debug\net8.0\AppMusicCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\AppMusic\AppMusicCL\obj\Debug\net8.0\AppMusicCL.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\AppMusic\AppMusicCL\obj\Debug\net8.0\AppMusicCL.AssemblyInfo.cs
+C:\Users\pedro\source\repos\AppMusic\AppMusicCL\obj\Debug\net8.0\AppMusicCL.csproj.CoreCompileInputs.cache
